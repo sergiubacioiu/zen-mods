@@ -10,9 +10,8 @@
 
 ## Files
 
-- `userChrome.css`: applies the Workspace icon sizing and layout rules.
+- `chrome.css`: applies the Workspace icon sizing and layout rules.
 - `preferences.json`: exposes Zen mod settings for icon size, button size, spacing, and corner radius.
-- `LICENSE`: MIT license for open-source redistribution.
 - `screenshot.png`: a 600x400 Zen Mod Store screenshot.
 
 ## Customization
